@@ -12,7 +12,6 @@ function RootRouter() {
                     <Route element={<HomeScreen />} path="/" />
                     <Route element={<ContatoScreen />} path="/contato" />
                     <Route element={<SobreScreen />} path="/sobre" />
-
                 </Route>
             </Routes>
         </BrowserRouter>

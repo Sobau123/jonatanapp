@@ -1,10 +1,11 @@
+import { Container } from "react-bootstrap";
 
 function SobreScreen (){
     return(
-        <div>
-        <h1>SobreScreen</h1>
-        <p>Sou a tela de sobre :D</p>
-        </div>
+        <Container>
+            <h1>Sobre Screen</h1>
+            <p>Sou a tela de sobre :D</p>
+        </Container>
     )
 }
 

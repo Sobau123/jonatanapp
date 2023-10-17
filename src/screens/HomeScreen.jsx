@@ -1,10 +1,11 @@
+import { Container } from "react-bootstrap";
 
 function HomeScreen() {
     return (
-        <div>
+        <Container>
             <h1>Olá Home Screen</h1>
             <p>Meu app maravilhoso</p>
-        </div>
+        </Container>
     )
 }
 

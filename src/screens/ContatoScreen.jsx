@@ -1,10 +1,11 @@
+import { Container } from "react-bootstrap";
 
 function ContatoScreen(){
     return(
-        <div>
+        <Container>
             <h1>Contato Screen</h1>
             <p>Sou a página de contato</p>
-        </div>
+        </Container>
     )
 }
 

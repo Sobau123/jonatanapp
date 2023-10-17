@@ -1,5 +1,6 @@
 import './App.css';
 import RootRouter from './routes';
+import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (

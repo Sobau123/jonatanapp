@@ -3,7 +3,7 @@ function Footer(){
     return(
         <footer>
             <hr />
-            <p>Rodapé</p>
+            <h3>Rodapé</h3>
         </footer>
     )
 }
