@@ -4,7 +4,7 @@ function HomeScreen() {
     return (
         <Container>
             <h1>Olá Home Screen</h1>
-            <p>Meu app maravilhoso</p>
+            <p>Meu app maravilhoso 😍</p>
         </Container>
     )
 }

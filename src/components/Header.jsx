@@ -19,6 +19,9 @@ function Header(){
                             <Link className="nav-link" to="/contato">Contato</Link>
                         </Nav.Item>
                         <Nav.Item>
+                            <Link className="nav-link" to="/exercicio">Exercicio</Link>
+                        </Nav.Item>
+                        <Nav.Item>
                             <Link className="nav-link" to="/sobre">Sobre</Link>
                         </Nav.Item>
                     </Nav>

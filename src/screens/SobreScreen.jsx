@@ -4,7 +4,7 @@ function SobreScreen (){
     return(
         <Container>
             <h1>Sobre Screen</h1>
-            <p>Sou a tela de sobre :D</p>
+            <p>Sou a tela de sobre 😁</p>
         </Container>
     )
 }

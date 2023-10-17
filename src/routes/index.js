@@ -3,6 +3,7 @@ import HomeScreen from "../screens/HomeScreen";
 import Body from "../components/Body";
 import ContatoScreen from "../screens/ContatoScreen";
 import SobreScreen from "../screens/SobreScreen";
+import ExercicioScreen from "../screens/ExercicioScreen";
 
 function RootRouter() {
     return(
@@ -12,6 +13,7 @@ function RootRouter() {
                     <Route element={<HomeScreen />} path="/" />
                     <Route element={<ContatoScreen />} path="/contato" />
                     <Route element={<SobreScreen />} path="/sobre" />
+                    <Route element={<ExercicioScreen />} path="/exercicio" />
                 </Route>
             </Routes>
         </BrowserRouter>

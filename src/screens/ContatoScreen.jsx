@@ -4,7 +4,7 @@ function ContatoScreen(){
     return(
         <Container>
             <h1>Contato Screen</h1>
-            <p>Sou a página de contato</p>
+            <p>Sou a página de contato 👨‍💼</p>
         </Container>
     )
 }
